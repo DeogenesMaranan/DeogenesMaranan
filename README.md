@@ -1,4 +1,5 @@
 <a href="https://discord.com/users/814415398665453600"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/814415398665453600?borderRadius=8px&hideDiscrim=true"/></a>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DeogenesMaranan&show_icons=true&theme=onedark"></img>
 
