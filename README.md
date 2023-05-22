@@ -1,4 +1,5 @@
 <div align="center">
+  <br>
   <img align="right" src="https://lanyard-profile-readme.vercel.app/api/814415398665453600?borderRadius=8px&hideDiscrim=true" height="225px">
   <h2>Hi there! 👋</h2>
   <p>I'm <strong>Deogenes Gregorio S. Maranan</strong>, a BSCS student aspiring to be a Data Scientist 📊💻. Passionate about using technology to drive positive change 🚀. Let's connect and explore the world of data together!</p>
