@@ -1,3 +1,4 @@
+### Hi there 👋 
 <a href="https://discord.com/users/814415398665453600"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/814415398665453600?borderRadius=8px&hideDiscrim=true"></a>
 
 I'am **Deogenes Gregorio S. Maranan**, 👨‍🎓 a BSCS student aspiring to be a Data Scientist 📊💻. Passionate about using technology to drive positive change 🚀. Let's connect and explore the world of data together!
