@@ -4,7 +4,7 @@
   <p><br>I'm <strong>Deogenes Gregorio S. Maranan</strong>, a BSCS student aspiring to be a Data Scientist 📊💻. Passionate about using technology to drive positive change 🚀. Let's connect and explore the world of data together!</p>
 </div>
 
-<h2><br>Unleash Potential. ✨</h2>
+<h2 align="center"><br><br>Unleash Potential. ✨</h2>
 
 - 🔭 Currently working on Carbon LODI school project
 - 🌱 Learning Python
