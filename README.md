@@ -3,9 +3,8 @@
   <h2><br>Hi there! 👋</h2>
   <p><br>I'm <strong>Deogenes Gregorio S. Maranan</strong>, a BSCS student aspiring to be a Data Scientist 📊💻. Passionate about using technology to drive positive change 🚀. Let's connect and explore the world of data together!</p>
 </div>
-<br>
-</br>
-## Unleash Potential. ✨
+
+<h2><br>Unleash Potential. ✨</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
