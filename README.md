@@ -1,9 +1,7 @@
 <a href="https://discord.com/users/814415398665453600"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/814415398665453600?borderRadius=8px&hideDiscrim=true"/></a>
-## 📋 Profile
+## 👨‍🎓 A BSCS student aspiring to be a Data Scientist 📊💻. Passionate about using technology to drive positive change 🚀. Let's connect and explore the world of data together!
 
-👨‍🎓 A BSCS student aspiring to be a Data Scientist 📊💻. Passionate about using technology to drive positive change 🚀. Let's connect and explore the world of data together!
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=DeogenesMaranan&show_icons=true&theme=onedark"></img></p>
+<img src="https://github-readme-stats.vercel.app/api?username=DeogenesMaranan&show_icons=true&theme=onedark"></img>
 
 <!--
 **DeogenesMaranan/DeogenesMaranan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
