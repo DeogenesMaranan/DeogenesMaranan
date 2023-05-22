@@ -3,7 +3,7 @@
   <h2><br>Hi there! 👋</h2>
   <p><br>I'm <strong>Deogenes Gregorio S. Maranan</strong>, a BSCS student aspiring to be a Data Scientist 📊💻. Passionate about using technology to drive positive change 🚀. Let's connect and explore the world of data together!</p>
 </div>
-
+<br>
 ## Unleash Potential. ✨
 
 - 🔭 I’m currently working on ...
