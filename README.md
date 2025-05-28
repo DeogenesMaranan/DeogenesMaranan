@@ -2,7 +2,7 @@
 <h3 align="center">A passionate a BSCS student aspiring to be a Computer Scientist 📊💻. Passionate about using technology to drive positive change 🚀. Let's connect and explore the world of computing together!</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on my University own CTF challenge<br>🤝 I’m looking for help with creating learning modules for CTFs<br>🌱 I’m currently learning Cyber Security and Competitive Programming<br>💬 Ask me about Cyber Security<br>⚡ Fun fact I can teach Cyber Security while being bad at it
+🔭 I’m currently interested for artificial intelligence <br>🤝 I’m looking for an internship opportunity<br>🌱I’m currently refreshing what I learned through the years<br>💬 Ask me about Competitive Programming <br>⚡ Fun fact: I really love C#
 
 
 ## 🌐 Socials:
